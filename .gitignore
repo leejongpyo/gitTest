@@ -1,0 +1,7 @@
+*.orig
+*.exe
+/bin
+/obj
+/bin/*.dll
+*BACKUP*.txt
+*BASE*.txt
